@@ -1,0 +1,26 @@
+/* variables */
+
+$primary-background: #c3cfe2;
+$footer-background: #686de0;
+
+$primary-font: Verdana, Geneva, Tahoma, sans-serif;
+
+/* import */
+
+@import "./testamonials";
+
+@import "./grid";
+
+@import "./social";
+
+/* mixin */
+
+/* 
+
+@mixin paragraph {
+
+}
+
+@include Example ();
+
+*/
